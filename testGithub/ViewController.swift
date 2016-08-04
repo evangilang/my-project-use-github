@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("PUSHHHHHHHH")
+        let frame = CGRect(x: 0, y: 100, width: 500, height: 500)
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
